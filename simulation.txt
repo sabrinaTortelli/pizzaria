@@ -1,0 +1,237 @@
+Client Name: Sabrina Tortelli
+Contact Phone: 98465-9823
+Cpf: 356.459.257-69
+Address: Avenida Rio Branco, 58 - Joao Paulo - 88498-25 - Florianopolis/SC
+
+Client Name: Ana Paula Figueira
+Contact Phone: 98719-6589
+Cpf: 525.789.365-48
+Address: Rua Gerônimo Coelho, 417 - Centro - 88528-47 - Florianopolis/SC
+
+Client Name: Francisco Klein
+Contact Phone: 99478-2536
+Cpf: 489.126.487-42
+Address: Rua Paulo Gustavo, 787 - Felizardo - 87488-47 - Sao Jose/SC
+
+PIZZARIA TUDO ACABA EM PIZZA
+3
+PEQUENA
+4
+MEDIA
+6
+GRANDE
+8
+12
+PIZZA DE QUATRO QUEIJOS
+5
+MOLHO DE TOMATE
+MUSSARELA
+PARMESAO
+GORGONZOLA
+REQUEIJAO
+37
+43
+50
+PIZZA DE ATUM
+4
+MOLHO DE TOMATE
+ATUM
+MUSSARELA
+CEBOLA
+37
+43
+50
+PIZZA DE ALHO
+4
+MOLHO DE TOMATE
+MUSSARELA
+ALHO FRITO
+AZEITONA PRETA
+37
+43
+50
+PIZZA DE MARGUERITA
+5
+MOLHO DE TOMATE
+MUSSARELA
+TOMATE
+MANJERICAO
+PARMESAO
+37
+43
+50
+PIZZA DE FRANGO
+5
+MOLHO DE TOMATE
+FRANGO DESFIADO
+MUSSARELA
+REQUEIJAO
+AZEITONA PRETA
+37
+43
+50
+PIZZA DE CALABRESA
+4
+MOLHO DE TOMATE
+MUSSARELA
+CALABRESA MOIDA
+CEBOLA
+37
+43
+50
+PIZZA ARTESANAL
+4
+CALABRESA MOIDA
+MOLHO DE TOMATE
+ERVA DOCE
+MANJERICAO
+45
+51
+61
+PIZZA TOMAZZA
+6
+MOLHO DE TOMATE
+MUSSARELA
+PARMESAO
+TOMATE CEREJA
+MANJERICAO
+MUSSARELA DE BUFALA
+45
+51
+61
+PIZZA NAPOLI
+6
+MOLHO DE TOMATE
+MUSSARELA
+RUCULA
+PRESUNTO CRU
+MUSSARELA DE BUFALA
+AZEITONA PRETA
+45
+51
+61
+PIZZA DE CAMARAO
+5
+MOLHO DE TOMATE
+CAMARAO
+ALHO FRITO
+SALSINHA
+MUSSARELA
+45
+51
+61
+PIZZA DE CHOCOLATE
+2
+CHOCOLATE
+CREME DE LEITE
+35
+41
+48
+PIZZA DE SENSACAO
+3
+CHOCOLATE
+CREME DE LEITE
+MORANGO
+35
+41
+48
+
+Id: 1
+Cliente: Sabrina Tortelli
+Contato: 98465-9823
+
+Pizza escolhida: PIZZA DE MARGUERITA
+Valor da pizza pedida: 43
+Tamanho pedido: MEDIA
+
+Total do pedido: 43
+
+
+Id: 2
+Cliente: Ana Paula Figueira
+Contato: 98719-6589
+
+Pizza escolhida: PIZZA DE MARGUERITA
+Valor da pizza pedida: 50
+Tamanho pedido: GRANDE
+
+Pizza escolhida: PIZZA DE FRANGO
+Valor da pizza pedida: 43
+Tamanho pedido: MEDIA
+
+Pizza escolhida: PIZZA DE SENSACAO
+Valor da pizza pedida: 41
+Tamanho pedido: MEDIA
+
+Total do pedido: 134
+
+
+Id: 3
+Cliente: Francisco Klein
+Contato: 99478-2536
+
+Pizza escolhida: PIZZA DE SENSACAO
+Valor da pizza pedida: 41
+Tamanho pedido: MEDIA
+
+Total do pedido: 41
+
+
+RELATORIO DE PIZZAS VENDIDAS
+
+Pizza: PIZZA DE MARGUERITA
+Quantidade vendida: 2
+Tamanho vendido: MEDIA
+Tamanho vendido: GRANDE
+Pizza: PIZZA DE SENSACAO
+Quantidade vendida: 2
+Tamanho vendido: MEDIA
+Tamanho vendido: MEDIA
+Pizza: PIZZA DE FRANGO
+Quantidade vendida: 1
+Tamanho vendido: MEDIA
+
+Total dos pedidos: 218
+
+RELATORIO DE PIZZAS NAO VENDIDAS
+
+Pizza: PIZZA DE FRANGO
+Tamanho nao vendido: PEQUENA
+Pizza: PIZZA DE FRANGO
+Tamanho nao vendido: GRANDE
+Pizza: PIZZA DE QUATRO QUEIJOS
+Tamanho nao vendido: PEQUENA
+Tamanho nao vendido: MEDIA
+Tamanho nao vendido: GRANDE
+Pizza: PIZZA DE ATUM
+Tamanho nao vendido: PEQUENA
+Tamanho nao vendido: MEDIA
+Tamanho nao vendido: GRANDE
+Pizza: PIZZA DE ALHO
+Tamanho nao vendido: PEQUENA
+Tamanho nao vendido: MEDIA
+Tamanho nao vendido: GRANDE
+Pizza: PIZZA DE CALABRESA
+Tamanho nao vendido: PEQUENA
+Tamanho nao vendido: MEDIA
+Tamanho nao vendido: GRANDE
+Pizza: PIZZA ARTESANAL
+Tamanho nao vendido: PEQUENA
+Tamanho nao vendido: MEDIA
+Tamanho nao vendido: GRANDE
+Pizza: PIZZA TOMAZZA
+Tamanho nao vendido: PEQUENA
+Tamanho nao vendido: MEDIA
+Tamanho nao vendido: GRANDE
+Pizza: PIZZA NAPOLI
+Tamanho nao vendido: PEQUENA
+Tamanho nao vendido: MEDIA
+Tamanho nao vendido: GRANDE
+Pizza: PIZZA DE CAMARAO
+Tamanho nao vendido: PEQUENA
+Tamanho nao vendido: MEDIA
+Tamanho nao vendido: GRANDE
+Pizza: PIZZA DE CHOCOLATE
+Tamanho nao vendido: PEQUENA
+Tamanho nao vendido: MEDIA
+Tamanho nao vendido: GRANDE

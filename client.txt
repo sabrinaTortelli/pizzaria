@@ -1,0 +1,15 @@
+Client Name: Sabrina Tortelli
+Contact Phone: 98465-9823
+Cpf: 356.459.257-69
+Address: Avenida Rio Branco, 58 - Joao Paulo - 88498-25 - Florianopolis/SC
+
+Client Name: Ana Paula Figueira
+Contact Phone: 98719-6589
+Cpf: 525.789.365-48
+Address: Rua Gerônimo Coelho, 417 - Centro - 88528-47 - Florianopolis/SC
+
+Client Name: Francisco Klein
+Contact Phone: 99478-2536
+Cpf: 489.126.487-42
+Address: Rua Paulo Gustavo, 787 - Felizardo - 87488-47 - Sao Jose/SC
+
